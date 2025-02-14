@@ -2,7 +2,8 @@
 /**
  * Debug Function v1.2.0
  *
- * Author: Your Name
+ * Author: Tural Sedirov
+ * Email : turalsedirov@gmail.com
  * Description: A flexible debugging function that prints readable outputs of variables,
  *              supports arrays, handles execution flow, and allows custom formatting.
  *
