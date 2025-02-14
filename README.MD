@@ -13,9 +13,7 @@ Installation<br>
 Clone the repository:
 
 sh
-Копировать
-Редактировать
-git clone https://github.com/yourusername/shorturl.git
+git clone <a href="https://github.com/TuralSedirov/ShortURL-Php-URL-Shortener.git">https://github.com/TuralSedirov/ShortURL-Php-URL-Shortener.git</a>
 cd shorturl
 Configure storage (JSON or MySQL).
 
