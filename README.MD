@@ -2,14 +2,14 @@ ShortURL - PHP URL Shortener
 Description
 ShortURL is a standalone PHP class for URL shortening with reversible encoding and decoding. It supports optional storage in a JSON file or a MySQL database and includes a full API for CRUD operations.
 
-Features
-✅ Encode and decode short URLs deterministically
-✅ Choose between JSON storage, MySQL, or no storage
-✅ Full API with CRUD functionality
-✅ Secure and scalable design
-✅ Well-documented and easy to integrate
+Features<br>
+✅ Encode and decode short URLs deterministically<br>
+✅ Choose between JSON storage, MySQL, or no storage<br>
+✅ Full API with CRUD functionality<br>
+✅ Secure and scalable design<br>
+✅ Well-documented and easy to integrate<br>
 
-Installation
+Installation<br>
 Clone the repository:
 
 sh
